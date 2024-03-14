@@ -1,0 +1,1 @@
+a project that manage the employees of ALBARIDBANK and also manage all the agencies of the same enterprise, a project made with the technology Java Enterprise Edition JEE, and for the database i used Mysql, Basically a project that could be helpful for your journeyy with Java 
